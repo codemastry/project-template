@@ -1,0 +1,11 @@
+.resetpassword-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .resetpassword-form-forgot {
+    float: right;
+  }
+  .resetpassword-form-button {
+    width: 100%;
+  }

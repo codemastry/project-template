@@ -1,0 +1,29 @@
+
+#admin-dashboard .logo, 
+#user-dashboard .logo {
+    padding: 1em
+}
+
+#admin-dashboard .logo a, 
+#user-dashboard .logo a {
+    display: flex;
+}
+
+#admin-dashboard .logo a img,
+#user-dashboard .logo a img {
+    width: 100%;
+    max-width: 40px;
+    align-self: center;
+}
+
+#admin-dashboard .logo a span,
+#user-dashboard .logo a span {
+    align-self: center;
+    font-size: 1.5em;
+    margin-left: 10px;
+}
+
+#admin-dashboard .site-layout .site-layout-background,
+#user-dashboard .site-layout .site-layout-background {
+    background: #fff;
+}
