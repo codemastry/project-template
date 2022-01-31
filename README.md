@@ -12,6 +12,7 @@
 - Craco
 ### Database
 - Microsoft SQL Server
+### ORM
 - Entity framework core
 ### Others
 - JWT
